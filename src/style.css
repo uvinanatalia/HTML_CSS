@@ -1,0 +1,70 @@
+/* Стили для body*/
+body {
+font-family: Verdana, cursive;
+background-color: #9c4c4cc0;
+}
+
+/* Заголовки */
+h1, h3 {
+color: #120708c0;
+}
+h4 {
+color: #8f1422c0;
+}
+
+/* Стили для формы */
+form {
+background: #FFF5EE;
+padding: 20px;
+border-radius: 8px;
+}
+
+/* Ссылка */
+a:link {
+color: #9c4c4cc0;
+}
+a:visited {
+  color: #191970;
+}
+a:hover {
+  color: #120708c0;
+}
+
+/* Для select */
+.select {
+color: #A52A2A;
+}
+
+select {
+width: 700px;
+}
+
+/* Кнопка Найти */
+button[type="submit"] {
+background-color: #CD5C5C;
+border: #CD5C5C;
+width: 120px;
+height: 50px;
+border-radius: 8px;
+}
+
+/* Горизонтальные линии*/
+
+hr {
+border-color: #CD5C5C;
+}
+
+/* Стили для таблицы */
+table {
+width: 800px;
+border-collapse: collapse;
+}
+
+th, td {
+border: 2px solid #9c4c4cc0;
+text-align: center;
+}
+
+th {
+background-color: #9c4c4cc0;
+}
